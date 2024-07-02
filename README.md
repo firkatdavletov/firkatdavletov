@@ -1,16 +1,37 @@
-## Hi there 👋
+Android разработчик. Занимаюсь мобильной разработкой с 2021 
 
-<!--
-**firkatdavletov/firkatdavletov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Навыки
+Android SDK, Android Studio, Material Design, Jetpack Compose, Custom Views, Retrofit, OkHttp, Dagger, Room, Decompose; Паттерны проектирования MVC, MVP, MVVM; SOLID, DRY
+\
+Запросы к REST API, SOAP API; Unit и UI тестирование;
+\
+Многопоточость: RxJava, Coroutines, Flow
+\
+Git, проведение code review.
+\
+\
+В данный момент работаю над проектом мобильного клиента для 1С. 
+\
+[1C WMS Mobile](https://tsd.agent5.ru/)
 
-Here are some ideas to get you started:
+PET-проекты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [WeatherApp](https://github.com/firkatdavletov/WeatherApp)
+\
+В рамках изучения Decompose, MVI и Kotlin Multiplatform реализовываю проект
+- [CustomView](https://github.com/firkatdavletov/CustomView)
+\
+Для повышения уровня верстки Custom Views разрабатываю графики Pie Chart & Spline Chart. Проект еще в стадии разработки.
+- [CustomView_OTUS](https://github.com/firkatdavletov/HomeWork_07)
+\
+Custom View. Домашнее задание в рамках обучения на курсе в OTUS
+- [Dagger2](https://github.com/firkatdavletov/Dagger2Homework)
+\
+Dagger2. Домашнее задание в рамках обучения на курсе в OTUS
+- [Flow](https://github.com/firkatdavletov/FlowHomework)
+\
+Flow. Домашнее задание в рамках обучения на курсе в OTUS
+- [Coroutines](https://github.com/firkatdavletov/Coroutines-Homework)
+\
+Coroutines. Домашнее задание в рамках обучения на курсе в OTUS
+
