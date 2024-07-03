@@ -1,4 +1,4 @@
-Android разработчик. Занимаюсь мобильной разработкой с 2021 
+Android разработчик. Занимаюсь мобильной разработкой с 2021 года.
 
 ### Навыки
 Android SDK, Android Studio, Material Design, Jetpack Compose, Custom Views, Retrofit, OkHttp, Dagger, Room, Decompose; Паттерны проектирования MVC, MVP, MVVM; SOLID, DRY
