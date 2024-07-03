@@ -18,7 +18,7 @@ PET-проекты:
 
 - [WeatherApp](https://github.com/firkatdavletov/WeatherApp)
 \
-В рамках изучения Decompose, MVI и Kotlin Multiplatform реализовываю проект
+В рамках изучения Decompose, MVI и Kotlin Multiplatform реализовываю проект - приложение для просмотра прогноза погоды.
 - [CustomView](https://github.com/firkatdavletov/CustomView)
 \
 Для повышения уровня верстки Custom Views разрабатываю графики Pie Chart & Spline Chart. Проект еще в стадии разработки.
