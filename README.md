@@ -21,7 +21,7 @@ PET-проекты:
 В рамках изучения Decompose, MVI и Kotlin Multiplatform реализовываю проект - приложение для просмотра прогноза погоды.
 - [CustomView](https://github.com/firkatdavletov/CustomView)
 \
-Для повышения уровня верстки Custom Views разрабатываю графики Pie Chart & Spline Chart. Проект еще в стадии разработки.
+Для повышения уровня верстки Custom Views разрабатываю приложение для анализа расходов с графиками Pie Chart & Spline Chart.
 - [CustomView_OTUS](https://github.com/firkatdavletov/HomeWork_07)
 \
 Custom View. Домашнее задание в рамках обучения на курсе в OTUS
