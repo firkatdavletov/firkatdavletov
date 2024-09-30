@@ -15,7 +15,9 @@ Git, проведение code review.
 [1C WMS Mobile](https://tsd.agent5.ru/)
 
 PET-проекты:
-
+- [Inbox](https://github.com/firkatdavletov/Inbox)
+\
+Реализовываю проект - приложение для доставки еды на Kotlin multimobile (Android and IOS).
 - [WeatherApp](https://github.com/firkatdavletov/WeatherApp)
 \
 В рамках изучения Decompose, MVI и Kotlin Multiplatform реализовываю проект - приложение для просмотра прогноза погоды.
