@@ -35,7 +35,7 @@ developer tooling, and engineering automation.
 
 ## 🚀 Featured Projects
 
-### 💰 Saldomi — Personal Finance App
+### 💰 [Saldomi — Personal Finance App](https://github.com/firkatdavletov/FillinAndroid)
 
 An Android application designed to make personal
 budgeting simple and intuitive.
@@ -48,7 +48,7 @@ Key areas:
 - Financial planning
 - Modern Android UI
 
-### 🤖 DevTask — AI Agent Orchestrator
+### 🤖 [DevTask — AI Agent Orchestrator](https://github.com/firkatdavletov/DevTask)
 
 A Python-based tool for orchestrating AI coding agents
 and automating software development workflows.
@@ -61,7 +61,7 @@ Focus areas:
 - Developer productivity
 - Workflow automation
 
-### ⚙️ Saldomi Backend
+### ⚙️ [Saldomi Backend](https://github.com/firkatdavletov/FinanceConsultante)
 
 Backend service for the Saldomi personal finance application.
 
