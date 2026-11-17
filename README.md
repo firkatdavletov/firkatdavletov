@@ -73,7 +73,7 @@ Focus areas:
 - Data persistence
 - Mobile-backend integration
 
-## 🌱 Currently Exploring
+## 🌱 Currently Exploring`
 
 - Advanced Android architecture
 - Kotlin Multiplatform
@@ -82,5 +82,5 @@ Focus areas:
 
 ## 📫 Connect
 
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
+- Telegram: @firkat_d
+- Email: firkatdavletov911@gmail.com
